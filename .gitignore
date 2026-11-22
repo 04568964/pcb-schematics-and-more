@@ -1,0 +1,25 @@
+firmware/build/
+firmware/Debug/
+firmware/Release/
+firmware/Sim/run_sim
+firmware/Sim/run_sim.exe
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+History/
+__Previews/
+Project Logs for*/
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+~$*
+*.FCStd1
+*.FCBak
+.DS_Store
+Thumbs.db
+.vscode/
